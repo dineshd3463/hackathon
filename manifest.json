@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Meet AI Transcriber Pro",
+  "version": "1.7",
+  "permissions": ["storage", "tabs", "activeTab", "scripting"],
+  "host_permissions": ["https://meet.google.com/*"],
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://meet.google.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
