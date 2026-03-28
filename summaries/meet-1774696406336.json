@@ -1,0 +1,23 @@
+{
+  "meeting_date": "2026-03-28T11:13:26.336Z",
+  "summary": {
+    "tldr": "Very brief meeting with minimal content captured in the transcript.",
+    "decisions": [],
+    "action_items": [],
+    "topics": []
+  },
+  "analytics": {
+    "stats": [
+      {
+        "name": "Dinesh D",
+        "lines": 1,
+        "words": 1,
+        "talkPct": 100,
+        "linesPct": 100
+      }
+    ],
+    "totalWords": 1,
+    "totalLines": 1
+  },
+  "transcript": "[16:42:16] Dinesh D: Yeah."
+}
