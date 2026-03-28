@@ -1,0 +1,35 @@
+{
+  "meeting_date": "2026-03-28T11:14:38.220Z",
+  "summary": {
+    "tldr": "Brief meeting to test functionality of a system or tool. Participants discussed building a hackathon project and confirmed that the system is working properly.",
+    "decisions": [
+      "Confirmed that the system is working"
+    ],
+    "action_items": [],
+    "topics": [
+      "System functionality testing",
+      "Hackathon project development"
+    ]
+  },
+  "analytics": {
+    "stats": [
+      {
+        "name": "You",
+        "lines": 8,
+        "words": 92,
+        "talkPct": 74,
+        "linesPct": 57
+      },
+      {
+        "name": "Moushumi Barman",
+        "lines": 6,
+        "words": 32,
+        "talkPct": 26,
+        "linesPct": 43
+      }
+    ],
+    "totalWords": 124,
+    "totalLines": 14
+  },
+  "transcript": "[16:44:24] You: Hi, guys. How are you?\n[16:44:24] Moushumi Barman: We are fine. How are you?\n[16:44:24] You: Yeah, me. Thanks for asking then. Let's start eating. So the example is,\n[16:44:24] Moushumi Barman: Here. So there's\n[16:44:24] You: How to Build a HACKATHON Project without\n[16:44:24] Moushumi Barman: How to build that it's automatically you.\n[16:44:24] You: Let it be pro. I just want to know whether it is working or not. That is working. Even I know.\n[16:44:24] You: Hi, guys. How are you?\n[16:44:24] Moushumi Barman: We are fine. How are you?\n[16:44:24] You: Yeah, me. Thanks for asking then. Let's start eating. So the example is,\n[16:44:24] Moushumi Barman: Here. So there's\n[16:44:24] You: How to Build a HACKATHON Project without\n[16:44:24] Moushumi Barman: How to build that it's automatically you.\n[16:44:24] You: Let it be pro. I just want to know whether it is working or not. That is working. Even I know."
+}
